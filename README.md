@@ -62,5 +62,12 @@ industrial-safety-alert-system/
 ├── images/
 └── requirements.txt
 
+##  Wokwi Simulation
+
+You can view and test the project simulation here:
+
+[Open Wokwi Simulations]
+https://wokwi.com/projects/444296023662618625
+
 
 
